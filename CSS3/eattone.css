@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+#first{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightsalmon;
+    border: thick solid rgb(245, 245, 245);
+}
+#cb{
+    background-color: orange;
+    color: rgb(10, 10, 10);
+    font-family: 'Courier New', Courier, monospace;
+}
+#eg{
+    background-color:yellow;
+    color: rgb(10, 10, 10);
+    font-family: 'Courier New', Courier, monospace;
+}
+#fr{
+    background-color: yellow;
+    color: rgb(10, 10, 10);
+    font-family: 'Courier New', Courier, monospace;
+}
