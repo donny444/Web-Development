@@ -8,3 +8,12 @@ var myDog = {
 
 var nameValue = myDog.name
 var friendsValue = myDog.friends
+
+function checkObj(checkProp) {
+    if (myDog.hasOwnPorperty(checkProp)) {
+        return myDog[checkProp]
+    } else {
+        return "Not Found"
+    }
+}
+console.log(checkObj("tails"))
